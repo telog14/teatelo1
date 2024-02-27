@@ -1,0 +1,11 @@
+$ python -m pip install create_github_repo
+
+$ python -m create_github_repo -f github.txt -d "My new repo" -p -r "Test Repository"
+
+Created: https://github.com/geocoug/Test-Repository
+Attributes:
+  visibility: public
+  created_at: 2022-08-16 12:39:33
+  description: My new repo
+Do you want to keep these changes [Y/n]: y
+# 17327464
